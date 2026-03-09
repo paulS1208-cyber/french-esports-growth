@@ -34,20 +34,6 @@ Suivi des tournois joués, des jeux actifs et des gains au fil des années.
 | `total_prizemoney.png` | ![total](graphs/total_prizemoney.png) | Total PrizeMoney par équipe. |
 | `correlation_heatmap.png` | ![heatmap](graphs/correlation_heatmap.png) | Heatmap des corrélations entre variables. |
 
-### Aperçu des graphiques
-
-**Evolution du PrizeMoney par équipe**
-![PrizeMoney](graphs/prizemoney.png)
-
-**Evolution cumulée des PrizeMoney**
-![Cumulative PrizeMoney](graphs/cumulative_prizemoney.png)
-
-**Nombre de tournois joués par année**
-![Tournaments Played](graphs/tournaments_played.png)
-
-**Nombre de jeux actifs par équipe**
-![Games Active](graphs/games_active.png)
-
 ### Scripts (`Scripts/`)
 
 | Fichier | Description |
